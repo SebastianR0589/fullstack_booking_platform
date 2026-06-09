@@ -1,0 +1,12 @@
+**/node_modules
+**/dist
+**/.angular
+
+**/target
+**/.mvn
+**/.gradle
+
+.git
+.gitignore
+**/.idea
+**/.vscode
